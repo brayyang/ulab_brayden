@@ -1,0 +1,2 @@
+git status gives information about the current state of the working directory and shows changes that have been staged and those that have not. It also shows untracked files and changes to be committed in the working tree.
+
